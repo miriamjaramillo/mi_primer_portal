@@ -1,0 +1,52 @@
+@media only screen and (max-width: 641px) {
+
+    #masthead .site-branding h1.site-title{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .search-box .search-field{
+        display: none;
+
+    }
+    #home-slider .slides li .slide-caption{
+        display: none;
+    }
+    .top-menu .main-navigation{
+        padding: 0px 0px;
+    }
+    .main-navigation{
+        float: none;
+    }
+    select.tinynav{
+        display: block;
+        width:100%;
+        margin:10px 0px;
+    }
+    #umbrella{
+        display: none;
+    }
+    .site-footer .site-info{
+        text-align: center;
+    }
+    .site-footer .social-icons ul{
+        text-align: center;
+    }
+    .service-list ul{
+        margin-bottom: 20px;
+    }
+    #home-staff .home-staff-item .staff-info h3,
+    #page-staff .home-staff-item .staff-info h3{
+        font-size: 14px;
+    }
+
+ }
+
+@media only screen and (max-width: 1024px) {
+    #home-slider .slides li .slide-caption h2{
+        font-size: 20px;
+    }
+    #home-slider .slides li .slide-caption p{
+        font-size: 14px;
+        line-height: 1.2;
+    }
+}

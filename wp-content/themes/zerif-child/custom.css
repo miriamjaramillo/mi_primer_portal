@@ -1,0 +1,28 @@
+.header, .header-content-wrap, .contact-us {
+    background: rgba(233, 102, 86, .2);
+}
+
+.focus, .footer{
+    /*background: rgba(51, 118, 177, 1);*/
+    background: rgba(27, 62, 122, 1);
+}
+
+
+.comment-metadata, .comment-metadata a {
+    margin-right: 15px;
+}
+
+.post-thumb {
+    margin-bottom: 30px;
+}
+.post-thumb img {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.plus-gobierno {
+    vertical-align: baseline;
+    
+}

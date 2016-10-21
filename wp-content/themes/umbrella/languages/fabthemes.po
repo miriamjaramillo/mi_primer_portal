@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New Testimonial"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New staff"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/index.php:20
+#: Umbrella/single.php:15
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/header.php:33
+msgid "Call us"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:153
+msgid "Checkout the latest articles on our Blog"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: Umbrella/footer.php:22
+msgid "Contact Us:"
+msgstr ""
+
+#. Text in function
+#: Umbrella/template-parts/content-single.php:39
+#: Umbrella/single-fab_service.php:68
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: Umbrella/template-parts/content-page.php:29
+msgid "Edit %s"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Filter items list"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Insert into item"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Item Archives"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Items list"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Items list navigation"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:152
+msgid "Latest News"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:58
+msgid "Listed are our main services"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:107
+msgid "Listed are our main staff members"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/header.php:45
+msgid "Mail us"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "New Staff"
+msgstr ""
+
+#. Text in function
+#: Umbrella/comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Not found"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Not found in Trash"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: Umbrella/comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:57
+msgid "Our Services"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:106
+msgid "Our Staff"
+msgstr ""
+
+#. Text in function
+#: Umbrella/template-parts/content-single.php:39
+#: Umbrella/template-parts/content-page.php:29
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/footer.php:24
+msgid "Phone: "
+msgstr ""
+
+#. Text in echo
+#: Umbrella/header.php:56
+msgid "Reach us"
+msgstr ""
+
+#. Text in function
+#: Umbrella/template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Remove featured image"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Restaurant staff members"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Search Item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/search.php:15
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Service"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Service items"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Services"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Set featured image"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Slider item"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:197
+msgid "Testimonials from our patients"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Update Item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Uploaded to this item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Use as featured image"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "User Testimonials"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/homepage.php:196
+msgid "What our Patients Say"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/footer.php:26
+msgid "Working Time"
+msgstr ""
