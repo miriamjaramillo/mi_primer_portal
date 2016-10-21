@@ -16,7 +16,11 @@ if (get_stylesheet() !== get_template()) {
     }, 10, 2);
     add_filter('pre_option_theme_mods_' . get_stylesheet(), function ( $default ) {
         return get_option('theme_mods_' . get_template(), $default);
-    });
+    }); 
+    
+    
+    
+    
 }
 
 /* * **************************************** */
