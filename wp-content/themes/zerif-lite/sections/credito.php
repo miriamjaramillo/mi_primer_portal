@@ -49,7 +49,7 @@ $custom_fields = get_post_custom();
                                 <strong>Interés:</strong>
                                 <select name="intereses" id="intereses">
                                     <option value="11.02">VIVIENDA</option>
-                                    <option value="15.19">CONSUMO</option>
+                                    <option value="15.86">CONSUMO</option>
                                     <option value="25.59">MICRO MINORSTA</option>
                                     <option value="24.36">MICRO AC. SIMPLE</option>
                                     <option value="23.14">MICRO AC. AMPLIADA</option>
